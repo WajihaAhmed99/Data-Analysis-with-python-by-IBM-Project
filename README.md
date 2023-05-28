@@ -1,5 +1,7 @@
 # Data-Analysis-with-python-by-IBM-Project
-This project is about data analysis using python
+This project is about data analysis using python.
+## About the project 
+In this project we use **pandas** and **numpy** for data analysis and **matplotlib** and **seaborn** for data visulization.In labs we different tenchniques for data using python as given below.
 ## Lab 1 
 * 1.Data Acquisition
 * 2.Basic Insight of Dataset
@@ -16,3 +18,5 @@ This project is about data analysis using python
 * 1.Import Data from Module
 * 2.Analyzing Individual Feature Patterns using Visualization
 * 3.Descriptive Statistical Analysis
+## Lab final 
+In final lab we use all the technique which we use in all of 3 labs to understand our data.
