@@ -1,5 +1,5 @@
 # Data-Analysis-with-python-by-IBM-Project
-This project is about data analysis using python.
+This project is part of the Data Analysis with Python Course in which we use two different datasets to clean, summarize, manipulate, transform, and visualize our data using Python libraries like pandas, numpy, seaborn, and matplotlib.
 ## About the project 
 In this project we use **pandas** and **numpy** for data analysis and **matplotlib** and **seaborn** for data visulization.In labs we different tenchniques for data using python as given below.
 ## Lab 1 
